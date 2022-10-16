@@ -4,19 +4,12 @@ const Sidebar = () => {
   return (
     <div className='aside'>
         <div className="menu">
+          <h1>TOPIC</h1>
         <ul>
           <li>
-            <a href="#home">HOME</a>
+            <a href="#Main.js">useref</a>
           </li>
-          <li>
-            <a href="#about">ABOUT</a>
-          </li>
-          <li>
-            <a href="#work">PORTFOLIO</a>
-          </li>
-          <li>
-            <a href="#clients">CONTACT</a>
-          </li>
+          
         </ul>
       </div>
     </div>
